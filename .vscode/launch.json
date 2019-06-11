@@ -2,6 +2,24 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - SwitchDemo",
+      "request": "launch",
+      "mainClass": "SwitchDemo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - IfElseDemo",
+      "request": "launch",
+      "mainClass": "IfElseDemo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BitDemo",
+      "request": "launch",
+      "mainClass": "BitDemo"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - InstanseofDemo",
       "request": "launch",
       "mainClass": "InstanseofDemo"
