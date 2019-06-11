@@ -2,6 +2,36 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - InstanseofDemo",
+      "request": "launch",
+      "mainClass": "InstanseofDemo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CompareDemo",
+      "request": "launch",
+      "mainClass": "CompareDemo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - PrePostDemo",
+      "request": "launch",
+      "mainClass": "PrePostDemo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MultiDimArrayDemo",
+      "request": "launch",
+      "mainClass": "MultiDimArrayDemo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ArrayDemo",
+      "request": "launch",
+      "mainClass": "ArrayDemo"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ACMEBicycleDemo",
       "request": "launch",
       "mainClass": "ACMEBicycleDemo"
