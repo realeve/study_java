@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ACMEBicycleDemo",
+      "request": "launch",
+      "mainClass": "ACMEBicycleDemo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BycicleDemo",
+      "request": "launch",
+      "mainClass": "BycicleDemo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HelloWorldApp",
+      "request": "launch",
+      "mainClass": "HelloWorldApp"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BycicleDemo",
+      "request": "launch",
+      "mainClass": "BycicleDemo",
+      "projectName": "java_3ea82c62"
+    }
+  ]
+}
