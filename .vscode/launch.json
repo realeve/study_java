@@ -2,76 +2,9 @@
   "configurations": [
     {
       "type": "java",
-      "name": "CodeLens (Launch) - SwitchDemo",
+      "name": "CodeLens (Launch) - WhileDemo",
       "request": "launch",
-      "mainClass": "SwitchDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - IfElseDemo",
-      "request": "launch",
-      "mainClass": "IfElseDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - BitDemo",
-      "request": "launch",
-      "mainClass": "BitDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - InstanseofDemo",
-      "request": "launch",
-      "mainClass": "InstanseofDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - CompareDemo",
-      "request": "launch",
-      "mainClass": "CompareDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - PrePostDemo",
-      "request": "launch",
-      "mainClass": "PrePostDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - MultiDimArrayDemo",
-      "request": "launch",
-      "mainClass": "MultiDimArrayDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - ArrayDemo",
-      "request": "launch",
-      "mainClass": "ArrayDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - ACMEBicycleDemo",
-      "request": "launch",
-      "mainClass": "ACMEBicycleDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - BycicleDemo",
-      "request": "launch",
-      "mainClass": "BycicleDemo"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - HelloWorldApp",
-      "request": "launch",
-      "mainClass": "HelloWorldApp"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - BycicleDemo",
-      "request": "launch",
-      "mainClass": "BycicleDemo",
-      "projectName": "java_3ea82c62"
+      "mainClass": "WhileDemo"
     }
   ]
 }
